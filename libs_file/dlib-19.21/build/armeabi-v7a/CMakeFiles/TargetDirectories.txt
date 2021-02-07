@@ -1,0 +1,17 @@
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/CMakeFiles/install/local.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/CMakeFiles/install/strip.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/CMakeFiles/install.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/CMakeFiles/package_source.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/CMakeFiles/list_install_components.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/CMakeFiles/package.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/dlib/CMakeFiles/install/local.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/dlib/CMakeFiles/install/strip.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/dlib/CMakeFiles/install.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/dlib/CMakeFiles/list_install_components.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/dlib/CMakeFiles/package.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/dlib/CMakeFiles/package_source.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/dlib/CMakeFiles/rebuild_cache.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/dlib/CMakeFiles/edit_cache.dir
+/Users/hello/Desktop/dlib-19.21/build/armeabi-v7a/dlib/CMakeFiles/dlib.dir
